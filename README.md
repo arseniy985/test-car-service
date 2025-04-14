@@ -34,7 +34,7 @@ API для управления автомобилями, их комплект�
 1. Клонировать репозиторий:
 ```bash
 git clone https://github.com/arseniy985/test-car-service.git
-cd car-configuration-api
+cd test-car-service
 ```
 
 2. Настроить окружение:
