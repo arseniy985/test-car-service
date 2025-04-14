@@ -33,7 +33,7 @@ API для управления автомобилями, их комплект�
 
 1. Клонировать репозиторий:
 ```bash
-git clone https://github.com/yourusername/car-configuration-api.git
+git clone https://github.com/arseniy985/test-car-service.git
 cd car-configuration-api
 ```
 
